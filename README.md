@@ -1,7 +1,8 @@
-<div align='center'><font size=90><b>Kevin's iOS App Portfolio</b></font></div>
-<div align='center'><font size=40><b>Containing TaoTeChing, HappyMemo, Ladybird and Minesweeper. You can download source codes via [my repositories](https://github.com/TankKevin).</b></font></div> 
+# Kevin's iOS App Portfolio
 
-# [读经悟道 TaoTeChing](https://github.com/TankKevin/TaoTeChing)
+Containing TaoTeChing, HappyMemo, Ladybird and Minesweeper. You can download source codes via [my repositories](https://github.com/TankKevin).
+
+## [读经悟道 TaoTeChing](https://github.com/TankKevin/TaoTeChing)
 * **One-Sentence Introduction**
 
 TaoTeChing is an iOS app for readers to absorb and share Taoism wisdom.
@@ -17,6 +18,7 @@ TaoTeChing is an iOS app for readers to absorb and share Taoism wisdom.
     * A powerful search function is needed.
     * Add community functions.
 
+*[You could see a detailed product and development report, including the PRD through this link.](https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Report%20%26%20PRD.pdf)*
 *[Download TaoTeChingScreenDemo.mp4 (3.3 MB) through this link.](https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/TaoTeChingDemo.mp4)*
 
 <div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Screenshots/IMG_0304.PNG"/></div>
@@ -26,7 +28,7 @@ TaoTeChing is an iOS app for readers to absorb and share Taoism wisdom.
 <div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Screenshots/IMG_0306.PNG"/></div>
 
 
-# [乐记 HappyMemo](https://github.com/TankKevin/HappyMemo)
+## [乐记 HappyMemo](https://github.com/TankKevin/HappyMemo)
 * **One-Sentence Introduction**
 
 Using a random sequence of demonstrating and testing, users can memorize the city names just like the vocabulary apps like Momo or Baicizhan. This is my most complicated project. 
@@ -50,7 +52,7 @@ Fix bugs and publish to App Store.
 <div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/HappyMemo/master/IMG_0316.PNG"/></div>
 
 
-# [瓢虫 Ladybird](https://github.com/TankKevin/Ladybird)
+## [瓢虫 Ladybird](https://github.com/TankKevin/Ladybird)
 
 * **One-Sentence Introduction**
 
@@ -73,7 +75,7 @@ An iOS app to get any user's records of movies, books and songs from douban.com.
 <div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/Ladybird/master/IMG_0329.PNG"/></div>
 
 
-# [扫雷 Minesweeper](https://github.com/TankKevin/Minesweeper)
+## [扫雷 Minesweeper](https://github.com/TankKevin/Minesweeper)
 
 * **One-Sentence Introduction**
 
@@ -83,9 +85,9 @@ Minesweeper is an iOS version of the classical PC game - Minesweeper.
 
 In the game, you can set warnings for mines (tap and drag) or confirm safe areas (simply tap). If you are unlucky and run into a mine, the game is over and you can restart immediately. The warning of each grid is a sign of the number of mines nearby (in a 3*3 grid matrix). Hope you enjoy the game. By the way, this project is purely coded instead of visualized using storyboards.
 
-<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/Minesweeper/master/ScreenRecordOne.png"/></div>
-<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/Minesweeper/master/ScreenRecordTwo.png"/></div>
-
 * **Future Development Plan**
 
 Fix bugs and publish to App Store.
+
+<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/Minesweeper/master/ScreenRecordOne.png"/></div>
+<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/Minesweeper/master/ScreenRecordTwo.png"/></div>
