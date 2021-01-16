@@ -1,10 +1,10 @@
-# 凯文的个人 iOS App 作品 Kevin's iOS App Works
+<div align='center'><font size=20><b>凯文的个人 iOS App 作品 Kevin's iOS App Works</b></font></div> 
 
 包含读经悟道、乐记、瓢虫和扫雷，可在我的[个人仓库](https://github.com/TankKevin)下载源代码。
 
 Containing TaoTeChing, HappyMemo, Ladybird and Minesweeper. You can download source codes via [my repositories](https://github.com/TankKevin).
 
-# 读经悟道 TaoTeChing
+- # 读经悟道 TaoTeChing
 * **One-Sentence Introduction**
 
 TaoTeChing is an iOS app for readers to absorb and share Taoism wisdom.
