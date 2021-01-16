@@ -18,7 +18,7 @@ TaoTeChing is an iOS app for readers to absorb and share Taoism wisdom.
     * A powerful search function is needed.
     * Add community functions.
 
-*[You could see a detailed product and development report, including the PRD through this link.](https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Report%20%26%20PRD.pdf)*
+*[You could download a detailed development report, including the PRD (3.2 MB) through this link.](https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Report%20%26%20PRD.pdf)*
 
 *[Download TaoTeChingScreenDemo.mp4 (3.3 MB) through this link.](https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/TaoTeChingDemo.mp4)*
 
